@@ -2,9 +2,9 @@
 
 👨‍💻 Actualmente estoy trabajando en tecnologías de desarrollo web como JavaScript, Node js etc.
 
-📚 Actualmente estoy aprendiendo todo sobre las tecnologías de Frontend y Backend
+📚 Estoy aprendiendo todo sobre las tecnologías de Frontend y Backend
 
-💪🏼 Objetivos futuros: Aprender más tecnologías - Siempre seguir en constante aprendizaje ya adaptación para poder mejorar
+💪🏼 Objetivos futuros: Aprender más tecnologías - Siempre seguir en constante aprendizaje y adaptación para poder mejorar
 
 ⚡ Me encanta todo lo relacionado a la naturaleza.
 
